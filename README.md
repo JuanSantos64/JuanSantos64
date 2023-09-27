@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align='center'>
+  👋 Hello, I’m Juan Augusto Dias Santos 👨‍💻
+</h1>
 
-<!--
-**JuanSantos64/JuanSantos64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/juan-santos-28a001288/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/JuanSantos64">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanSantos64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSantos64&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+  <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </div> 
+
+
+<!---
+AndreVerasFernandes/AndreVerasFernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
