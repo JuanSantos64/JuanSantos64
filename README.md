@@ -2,13 +2,7 @@
   👋 Hello, I’m Juan Augusto Dias Santos 👨‍💻
 </h1>
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/juan-santos-28a001288/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
 
-<div align="center">
   
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Juan,+and+I+am+a+backend+dev)
@@ -32,4 +26,18 @@
 JuanSantos64/JuanSantos64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=28&duration=3500&pause=1500&color=F7F7F7&background=FFFFFF00&vCenter=true&width=1000&lines=👋+Thanks+for+visiting.+See+you+around!)
+
+
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/juan-santos-28a001288/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+<div align="center">
