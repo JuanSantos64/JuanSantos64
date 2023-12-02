@@ -11,7 +11,14 @@
 | ----------- | ----------- |
 | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=JuanSantos64&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) |![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanSantos64&theme=radical) |
 
-</div>
+
+
+ <!-- GIF -->
+  <p align="center">
+        <img align="center" src="https://hugelolcdn.com/hugegifs.com/i/15373.gif" alt="Imagem">
+      </p>
+
+
   
 
   <div style="display: inline_block" align="center"><br>
