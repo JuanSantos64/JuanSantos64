@@ -2,12 +2,11 @@
 | ----------- | ----------- |
 | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=JuanSantos64&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) |![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanSantos64&theme=radical) |
 
-
-<!---
-JuanSantos64/JuanSantos64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,swift,cs,dotnet,visualstudio,git" />
+  </a>
+</p>
 
 
 
